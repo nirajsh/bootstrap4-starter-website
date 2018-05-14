@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "../scss/style.css",
+	"sources": [
+		"../scss/style.scss",
+		"../scss/layout/_layout.scss"
+	],
+	"sourcesContent": [
+		"@import 'layout/layout';",
+		"body {\r\n    padding-top: 5rem;\r\n}\r\n\r\n\r\n.test {\r\n    background: red;\r\n}"
+	],
+	"mappings": ";ACAA,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,IAAK;CACrB;;;AAGD,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,GAAI;CACnB",
+	"names": []
+}
